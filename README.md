@@ -134,3 +134,5 @@ elif you want to train R2CNN:
      
 ![17](tools/test_result/08_rotate_gt.jpg)    
 ![18](tools/test_result/08_rotate_fpn.jpg)     
+
+modify for test
